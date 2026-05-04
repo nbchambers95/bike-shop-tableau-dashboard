@@ -31,7 +31,7 @@ The goal was to identify high-margin products, evaluate efficiency across catego
 
 ## Files
 - `bike_shop_analysis.twbx` – Tableau packaged workbook
-- `Screenshot 2026-05-04 043011.png` – Dashboard preview
+- `dashboard.png` – Dashboard preview
 
 ## Author
 Nathan Chambers
