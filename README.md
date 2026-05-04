@@ -12,7 +12,7 @@ The goal was to identify high-margin products, evaluate efficiency across catego
 - Revenue shows a clear upward trend beginning mid-2015
 
 ## Dashboard Preview
-![Dashboard](Screenshot 2026-05-04 043011.png)
+![Dashboard](dashboard.png)
 
 ## Dashboard Features
 - Interactive filters for product category and customer segment
