@@ -1,5 +1,8 @@
 # Bike Shop Sales & Profitability Dashboard
 🔗 **Live Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/nathan.chambers1550/viz/BikeShopSalesProfitabilityDashboard/BikeShopSalesPerformanceDashboard)
+
+🔗 **Data Preparation (SQL):** [View SQL Analysis Repo](https://github.com/nbchambers95/bike-shop-sql-analysis)
+
 ## Overview
 This project presents an interactive Tableau dashboard analyzing product-level profitability, sales volume tradeoffs, customer demographics, and revenue trends.
 
