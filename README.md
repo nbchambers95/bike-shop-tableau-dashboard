@@ -1,5 +1,5 @@
 # Bike Shop Sales & Profitability Dashboard
-
+🔗 **Live Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/nathan.chambers1550/viz/BikeShopSalesProfitabilityDashboard/BikeShopSalesPerformanceDashboard)
 ## Overview
 This project presents an interactive Tableau dashboard analyzing product-level profitability, sales volume tradeoffs, customer demographics, and revenue trends.
 
@@ -10,6 +10,12 @@ The goal was to identify high-margin products, evaluate efficiency across catego
 - High-volume, low-margin items reduce overall efficiency
 - Customers aged 25–44 represent the largest purchasing segment
 - Revenue shows a clear upward trend beginning mid-2015
+
+## Business Value
+- Helps identify high-profit product categories for strategic focus  
+- Highlights inefficiencies in high-volume, low-margin items  
+- Supports data-driven inventory and pricing decisions  
+- Provides visibility into customer demographics and purchasing behavior
 
 ## Dashboard Preview
 ![Dashboard](dashboard.png)
@@ -25,6 +31,10 @@ The goal was to identify high-margin products, evaluate efficiency across catego
 - Tableau Public
 - SQL (data preparation)
 - Excel (data cleaning)
+
+## Data Sources
+- Synthetic retail dataset (Kaggle)
+- Processed using SQL and Excel for analysis-ready structure
 
 ## Live Dashboard
 [View Tableau Dashboard](https://public.tableau.com/views/BikeShopSalesProfitabilityDashboard/BikeShopSalesPerformanceDashboard)
